@@ -1,0 +1,8 @@
+{
+  "name": "dogescript",
+  "description": "wow so syntax very doge much future",
+  "homepage": "https://github.com/dburles/meteor-dogescript",
+  "author": "Zach Bruggeman",
+  "version": "0.1.0",
+  "git": "https://github.com/dburles/meteor-dogescript.git"
+}
