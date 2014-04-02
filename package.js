@@ -8,5 +8,5 @@ Package._transitional_registerBuildPlugin({
   sources: [
     'plugin/compile-dogescript.js'
   ],
-  npmDependencies: {"dogescript": "2.1.1"}
+  npmDependencies: {"dogescript": "2.3.0"}
 });
