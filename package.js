@@ -1,5 +1,8 @@
 Package.describe({
-  summary: "wow so syntax very doge much future"
+  name: 'dburles:dogescript',
+  summary: 'wow so syntax very doge much future',
+  version: '1.0.0',
+  git: 'https://github.com/dburles/meteor-dogescript.git'
 });
 
 Package._transitional_registerBuildPlugin({
